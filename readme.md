@@ -1,4 +1,4 @@
-# CEC20 Test Function Suite for Single Objective Bound Constrained Numerical Optimization(Python Version)
+# CEC20 Test Function Suite for Single Objective Bound Constrained Numerical Optimization(Python Wrapper)
 
 ## User Instructions
 1. The DLL file is generated from the cpp file.
